@@ -1,7 +1,12 @@
 ---
+toc: true
+comments: true
 layout: post
-title: Editor
-permalink: /editor
+title: Meme Maker
+description: -
+courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 0} }
+categories: [C4.3, C5.0]
+type: devops
 ---
 
 <head>
